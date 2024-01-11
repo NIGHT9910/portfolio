@@ -1,0 +1,54 @@
+body {
+    background-color: antiquewhite;
+}
+h2 {
+    font-family: 'Libre Baskerville', serif;
+    position:relative; 
+    color:green ;
+    bottom: 100%;
+} 
+.y{
+color: blue;
+}
+.home {
+    background-color: black ;
+    color:white; 
+    border: 5px solid black ;
+    padding: 5px;
+}
+.about{
+    background-color: black ;
+    color:white; 
+    border: 5px solid black;
+    padding: 5px;
+}
+.contact {
+    background-color: black ;
+    color:white;
+    border: 5px solid black ;
+    padding: 5px;
+}
+.names{
+   
+    text-align: right;  
+}
+.me{
+    float: left;
+    width:300px ;
+    height:260px ;
+    padding: 0 10px 0 0 ;
+    border-radius: 100% ;
+    
+}
+.mee {
+   display: flex;
+   margin: 120px auto  ;
+   width:50% ;
+   
+}
+
+.p { 
+    text-align: justify;
+    font-family: verdana;
+  
+ }

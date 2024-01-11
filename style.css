@@ -1,0 +1,39 @@
+h1 { 
+    font-family: 'Libre Baskerville', serif;
+
+}
+ h2 {
+    font-family: 'Libre Baskerville', serif;
+    position:relative;
+ }
+
+.names{
+   
+    text-align: right; 
+    
+   
+}
+.home {
+    background-color: black ;
+    color:white; 
+    border: 5px solid black ;
+    padding: 5px;
+}
+.about{
+    background-color: black ;
+    color:white; 
+    border: 5px solid black;
+    padding: 5px;
+}
+.contact {
+    background-color: black ;
+    color:white;
+    border: 5px solid black ;
+    padding: 5px;
+}
+.wel{
+    background-color: black;
+}
+.come{
+    background-color: white;
+}

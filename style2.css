@@ -1,0 +1,61 @@
+body{
+background-image: url(aesthetic.gif);
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-size: 100% 100% ;
+}
+
+h2 {
+    font-family: 'Libre Baskerville', serif;
+    position:relative; 
+    color:green ;
+    bottom: 100%;
+} 
+.y{
+color: blue;
+}
+.home {
+    background-color: black ;
+    color:white; 
+    border: 5px solid black ;
+    padding: 5px;
+}
+.about{
+    background-color: black ;
+    color:white; 
+    border: 5px solid black;
+    padding: 5px;
+}
+.contact {
+    background-color: black ;
+    color:white;
+    border: 5px solid black ;
+    padding: 5px;
+}
+.names{
+   
+    text-align: right;  
+}
+
+.h1 { 
+    text-align: center;
+   display: block;
+   
+}
+.t1{
+    background-color: black;
+    padding: 10px;
+    color: blueviolet;
+
+}
+.t2{
+    background-color: black;
+    padding: 10px;
+    color: blueviolet;
+}
+.t3 {
+    background-color: black;
+    padding: 10px;
+    color: blueviolet;
+}
+
